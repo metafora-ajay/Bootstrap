@@ -1,0 +1,26 @@
+.nav_logo{
+    width: 20px;
+    height: 20px;
+}
+.corousel_img{
+    height: 90vh;
+    width: 100%;
+}
+/* .movies{
+    padding: 10px 0px 10px 0px;
+} */
+.card_img{
+    width: 100%;
+    height: 50vh;
+    padding: 0px 0px 0px 0px ;
+    border-radius: 10px;
+}
+.card{
+    border: 0;
+}
+.imgContainer{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    /* grid-template-rows: repeat(3,1fr); */
+    gap: 10px;
+}
